@@ -34,7 +34,8 @@ Brag Sheet
 		French Honors Society [2017-2018 & 2019-2020]
 		English Honors Society [2019-2020]
  
- 	Extracurricular Activities and Positions
+ 	
+	Extracurricular Activities and Positions
 		Science Olympiad
 			Building Coordinator [2018-2019]
 			President [2019-2020]
