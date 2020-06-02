@@ -6,8 +6,9 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 instagram_username: lily_sheng_ # DO NOT include the @ character, or else the build will fail!
-facebook_username: Lily Sheng
 github_username:  LilySheng2 # DO NOT include the @ character, or else the build will fail!
+facebook_username: Lily Sheng
+
 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
