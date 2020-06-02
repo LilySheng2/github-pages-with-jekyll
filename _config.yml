@@ -2,11 +2,13 @@ title: Lily Sheng's Website
 author: Lily Sheng
 email: Lsheng2@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  This is a website about the awesome Lily Sheng. 
+  This is a website about the awesome Lily Sheng. Contact me using my social media information listed on the left. 
 
 # social links
 instagram_username: lily_sheng_ # DO NOT include the @ character, or else the build will fail!
+facebook_username: Liy Sheng
 github_username:  LilySheng2 # DO NOT include the @ character, or else the build will fail!
+
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-time-machine
