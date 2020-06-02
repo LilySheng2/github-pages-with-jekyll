@@ -14,11 +14,11 @@ Brag Sheet
 		AP Scholar with Honor [2019]
 		15 Honor rolls 
 		4 Honor rolls [2016-2017]
-	4 Honor rolls [2017-2018]
-	4 Honors rolls [2018-2019]
-	3 Honors rolls [2019- June 2020] 
-	NJ Seal of Biliteracy: English and French [2019]
-	National Merit Commended Student [2019]
+		4 Honor rolls [2017-2018]
+		4 Honors rolls [2018-2019]
+		3 Honors rolls [2019- June 2020] 
+		NJ Seal of Biliteracy: English and French [2019]
+		National Merit Commended Student [2019]
 
 	Community Service and Volunteering
 		Tutored 6th Grade math student [2018-2019], over 20 hours
